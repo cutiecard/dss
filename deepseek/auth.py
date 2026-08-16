@@ -23,6 +23,7 @@ import time
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Dict, Optional
+import threading
 
 from playwright.sync_api import sync_playwright
 
@@ -259,6 +260,28 @@ def get_session(
     # (above) there's no token, so go straight to the sign-in page.
     print("[auth] No valid session found — opening a browser window to log in...")
     return login(profile_dir=profile_dir, assume_logged_out=True)
+
+def auto_refresh_loop():
+    while True:
+        time.sleep(5*60*60)  # every 5 hours
+        try:
+            get_session()  # this will renew the session file
+        except Exception as e:
+            print(f"Refresh failed: {e}")
+
+
+def start_auto_refresh_thread(daemon: bool = True) -> threading.Thread:
+    """Start `auto_refresh_loop` in a background daemon thread and return it."""
+    t = threading.Thread(target=auto_refresh_loop, daemon=daemon, name="deepseek-auto-refresh")
+    t.start()
+    print("[auth] started auto-refresh thread")
+    return t
+
+# Start the auto-refresh loop in the background so the session is kept up-to-date.
+try:
+    _auto_refresh_thread = start_auto_refresh_thread()
+except Exception as e:
+    print(f"[auth] failed to start auto-refresh thread: {e}")
 
 
 if __name__ == "__main__":
