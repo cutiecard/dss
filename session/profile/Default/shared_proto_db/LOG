@@ -1,3 +1,2 @@
-2026/09/21-18:24:45.886 3f5c Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\shared_proto_db/MANIFEST-000001
-2026/09/21-18:24:45.887 3f5c Recovering log #3
-2026/09/21-18:24:45.887 3f5c Reusing old log F:\games\Deepseek-API-main\session\profile\Default\shared_proto_db/000003.log 
+2026/09/21-18:33:26.152 6760 Creating DB F:\games\Deepseek-API-main\session\profile\Default\shared_proto_db since it was missing.
+2026/09/21-18:33:26.810 6760 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\shared_proto_db/MANIFEST-000001
