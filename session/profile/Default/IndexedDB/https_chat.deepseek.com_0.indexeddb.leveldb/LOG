@@ -1,14 +1,10 @@
-2026/09/21-01:27:27.332 7e2c Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/21-01:27:27.332 7e2c Recovering log #25
-2026/09/21-01:27:27.333 7e2c Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000025.log 
-2026/09/21-01:27:27.333 7e2c Delete type=2 #24
-2026/09/21-01:27:27.600 55ac Level-0 table #30: started
-2026/09/21-01:27:27.730 55ac Level-0 table #30: 842 bytes OK
-2026/09/21-01:27:27.773 55ac Delete type=0 #25
-2026/09/21-01:27:27.773 55ac Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 883 : 1
-2026/09/21-01:27:27.797 55ac Compacting 1@0 + 1@1 files
-2026/09/21-01:27:27.840 55ac Generated table #31@0: 186 keys, 2027 bytes
-2026/09/21-01:27:27.840 55ac Compacted 1@0 + 1@1 files => 2027 bytes
-2026/09/21-01:27:27.881 55ac compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/21-01:27:27.881 55ac Delete type=2 #30
-2026/09/21-01:27:27.881 55ac Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 883 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-01:28:50.365 6664 Creating DB F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb since it was missing.
+2026/09/21-01:28:50.758 6664 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/21-01:28:51.330 5160 Level-0 table #5: started
+2026/09/21-01:28:51.398 5160 Level-0 table #5: 1143 bytes OK
+2026/09/21-01:28:51.472 5160 Delete type=0 #3
+2026/09/21-01:28:51.472 6664 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-01:28:52.459 5160 Level-0 table #7: started
+2026/09/21-01:28:52.500 5160 Level-0 table #7: 1366 bytes OK
+2026/09/21-01:28:52.547 5160 Delete type=0 #4
+2026/09/21-01:28:52.547 6664 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

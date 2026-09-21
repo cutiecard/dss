@@ -1,3 +1,2 @@
-2026/09/21-01:27:27.582 51bc Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\File System\Origins/MANIFEST-000001
-2026/09/21-01:27:27.583 51bc Recovering log #3
-2026/09/21-01:27:27.583 51bc Reusing old log F:\games\Deepseek-API-main\session\profile\Default\File System\Origins/000003.log 
+2026/09/21-01:28:51.879 5160 Creating DB F:\games\Deepseek-API-main\session\profile\Default\File System\Origins since it was missing.
+2026/09/21-01:28:52.448 5160 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\File System\Origins/MANIFEST-000001
