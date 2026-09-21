@@ -1,10 +1,13 @@
-2026/09/21-01:28:50.365 6664 Creating DB F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb since it was missing.
-2026/09/21-01:28:50.758 6664 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/21-01:28:51.330 5160 Level-0 table #5: started
-2026/09/21-01:28:51.398 5160 Level-0 table #5: 1143 bytes OK
-2026/09/21-01:28:51.472 5160 Delete type=0 #3
-2026/09/21-01:28:51.472 6664 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/09/21-01:28:52.459 5160 Level-0 table #7: started
-2026/09/21-01:28:52.500 5160 Level-0 table #7: 1366 bytes OK
-2026/09/21-01:28:52.547 5160 Delete type=0 #4
-2026/09/21-01:28:52.547 6664 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-01:29:50.477 6f8c Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/21-01:29:50.477 6f8c Recovering log #6
+2026/09/21-01:29:50.478 6f8c Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000006.log 
+2026/09/21-01:29:50.582 4a5c Level-0 table #10: started
+2026/09/21-01:29:50.795 4a5c Level-0 table #10: 1627 bytes OK
+2026/09/21-01:29:50.911 4a5c Delete type=0 #6
+2026/09/21-01:29:50.912 4a5c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 199 : 1
+2026/09/21-01:29:50.933 4a5c Compacting 1@0 + 1@1 files
+2026/09/21-01:29:51.020 4a5c Generated table #11@0: 56 keys, 970 bytes
+2026/09/21-01:29:51.020 4a5c Compacted 1@0 + 1@1 files => 970 bytes
+2026/09/21-01:29:51.046 4a5c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-01:29:51.046 4a5c Delete type=2 #10
+2026/09/21-01:29:51.046 6f8c Manual compaction at level-0 from '\x00\x04\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 199 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
