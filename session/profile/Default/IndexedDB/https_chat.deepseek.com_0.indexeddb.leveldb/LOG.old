@@ -1,0 +1,22 @@
+2026/09/21-18:33:29.386 6760 Creating DB F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb since it was missing.
+2026/09/21-18:33:29.675 6760 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/21-18:33:30.444 4b40 Level-0 table #5: started
+2026/09/21-18:33:30.561 4b40 Level-0 table #5: 1906 bytes OK
+2026/09/21-18:33:30.978 4b40 Delete type=0 #3
+2026/09/21-18:33:30.978 4b40 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-18:33:31.146 6760 Level-0 table #7: started
+2026/09/21-18:33:31.388 6760 Level-0 table #7: 609 bytes OK
+2026/09/21-18:33:31.543 6760 Delete type=0 #4
+2026/09/21-18:33:31.544 6760 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-18:33:31.544 6760 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 155 : 0
+2026/09/21-18:33:31.544 6760 Compacting 1@1 + 1@2 files
+2026/09/21-18:33:31.785 6760 Generated table #8@1: 7 keys, 279 bytes
+2026/09/21-18:33:31.785 6760 Compacted 1@1 + 1@2 files => 279 bytes
+2026/09/21-18:33:31.884 6760 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/21-18:33:31.885 6760 Delete type=2 #7
+2026/09/21-18:33:31.885 6760 Manual compaction at level-1 from '\x00\x01\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 155 : 0 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/21-18:33:31.943 5d0c Level-0 table #10: started
+2026/09/21-18:33:32.210 5d0c Level-0 table #10: 1369 bytes OK
+2026/09/21-18:33:32.235 5d0c Delete type=2 #5
+2026/09/21-18:33:32.235 5d0c Delete type=0 #6
+2026/09/21-18:33:32.236 5298 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
