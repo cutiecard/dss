@@ -1,5 +1,5 @@
-2026/09/22-23:55:37.751 4178 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/22-23:55:37.752 4178 Recovering log #4
-2026/09/22-23:55:37.947 4178 Level-0 table #6: started
-2026/09/22-23:55:38.297 4178 Level-0 table #6: 24326 bytes OK
-2026/09/22-23:55:38.598 4178 Delete type=0 #4
+2026/09/24-01:49:29.214 4f60 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/24-01:49:29.215 4f60 Recovering log #7
+2026/09/24-01:49:29.396 4f60 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/000007.log 
+2026/09/24-01:49:42.792 8378 Level-0 table #10: started
+2026/09/24-01:49:42.967 8378 Level-0 table #10: 22900 bytes OK
