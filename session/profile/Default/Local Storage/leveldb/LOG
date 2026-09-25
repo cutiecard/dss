@@ -1,13 +1,5 @@
-2026/09/24-18:52:12.794 6b44 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/24-18:52:12.796 6b44 Recovering log #9
-2026/09/24-18:52:13.223 6b44 Level-0 table #11: started
-2026/09/24-18:52:13.569 6b44 Level-0 table #11: 25306 bytes OK
-2026/09/24-18:52:13.751 6b44 Delete type=0 #9
-2026/09/24-18:52:13.782 29f0 Compacting 4@0 + 0@1 files
-2026/09/24-18:52:14.401 29f0 Generated table #13@0: 42 keys, 15404 bytes
-2026/09/24-18:52:14.401 29f0 Compacted 4@0 + 0@1 files => 15404 bytes
-2026/09/24-18:52:14.453 29f0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/24-18:52:14.454 29f0 Delete type=2 #3
-2026/09/24-18:52:14.454 29f0 Delete type=2 #6
-2026/09/24-18:52:14.454 29f0 Delete type=2 #9
-2026/09/24-18:52:14.478 29f0 Delete type=2 #11
+2026/09/25-00:58:18.294 3580 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/25-00:58:18.295 3580 Recovering log #12
+2026/09/25-00:58:18.533 3580 Level-0 table #15: started
+2026/09/25-00:58:18.742 3580 Level-0 table #15: 24255 bytes OK
+2026/09/25-00:58:18.944 3580 Delete type=0 #12
