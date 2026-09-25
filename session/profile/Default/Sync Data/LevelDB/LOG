@@ -1,3 +1,2 @@
-2026/09/25-00:58:18.214 19f4 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/09/25-00:58:18.214 19f4 Recovering log #3
-2026/09/25-00:58:18.215 19f4 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\Sync Data\LevelDB/000003.log 
+2026/09/25-00:58:56.296 2b14 Creating DB F:\games\Deepseek-API-main\session\profile\Default\Sync Data\LevelDB since it was missing.
+2026/09/25-00:58:56.541 2b14 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Sync Data\LevelDB/MANIFEST-000001
