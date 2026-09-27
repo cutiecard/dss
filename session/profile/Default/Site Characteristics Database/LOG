@@ -1,2 +1,3 @@
-2026/09/26-01:21:45.491 78c0 Creating DB F:\games\Deepseek-API-main\session\profile\Default\Site Characteristics Database since it was missing.
-2026/09/26-01:21:46.105 78c0 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/27-00:40:11.904 6288 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/27-00:40:11.905 6288 Recovering log #3
+2026/09/27-00:40:11.905 6288 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\Site Characteristics Database/000003.log 
