@@ -1,2 +1,3 @@
-2026/09/26-01:21:47.716 7c84 Creating DB F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb since it was missing.
-2026/09/26-01:21:49.110 7c84 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-00:40:12.227 6710 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-00:40:12.228 6710 Recovering log #3
+2026/09/27-00:40:12.233 6710 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\Local Storage\leveldb/000003.log 
