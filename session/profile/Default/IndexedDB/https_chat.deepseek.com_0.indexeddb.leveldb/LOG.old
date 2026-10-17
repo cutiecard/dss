@@ -1,14 +1,25 @@
-2026/10/15-02:21:29.277 36a0 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/15-02:21:29.277 36a0 Recovering log #43
-2026/10/15-02:21:29.299 36a0 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000043.log 
-2026/10/15-02:21:29.300 36a0 Delete type=2 #41
-2026/10/15-02:21:29.551 6210 Level-0 table #48: started
-2026/10/15-02:21:29.745 6210 Level-0 table #48: 1422 bytes OK
-2026/10/15-02:21:29.928 6210 Delete type=0 #43
-2026/10/15-02:21:29.929 2e10 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 1379 : 1
-2026/10/15-02:21:30.079 2e10 Compacting 1@0 + 1@1 files
-2026/10/15-02:21:30.204 2e10 Generated table #49@0: 302 keys, 4168 bytes
-2026/10/15-02:21:30.204 2e10 Compacted 1@0 + 1@1 files => 4168 bytes
-2026/10/15-02:21:30.497 2e10 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/15-02:21:30.497 2e10 Delete type=2 #48
-2026/10/15-02:21:30.593 2e10 Manual compaction at level-0 from '\x00\x12\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 1379 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/16-01:11:56.197 4e0 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/16-01:11:56.198 4e0 Recovering log #47
+2026/10/16-01:11:56.240 4e0 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000047.log 
+2026/10/16-01:11:56.241 4e0 Delete type=2 #45
+2026/10/16-01:11:56.440 4398 Level-0 table #52: started
+2026/10/16-01:11:56.555 4398 Level-0 table #52: 1231 bytes OK
+2026/10/16-01:11:56.731 4398 Delete type=0 #47
+2026/10/16-01:11:56.731 4398 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1480 : 1
+2026/10/16-01:11:56.784 4398 Compacting 1@0 + 1@1 files
+2026/10/16-01:11:57.038 4398 Generated table #53@0: 323 keys, 4467 bytes
+2026/10/16-01:11:57.039 4398 Compacted 1@0 + 1@1 files => 4467 bytes
+2026/10/16-01:11:57.356 4398 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/16-01:11:57.357 4398 Delete type=2 #52
+2026/10/16-01:11:57.357 4398 Manual compaction at level-0 from '\x00\x13\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1480 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/16-01:11:57.430 4398 Level-0 table #55: started
+2026/10/16-01:11:57.555 4398 Level-0 table #55: 1766 bytes OK
+2026/10/16-01:11:57.630 4398 Delete type=2 #49
+2026/10/16-01:11:57.630 4398 Delete type=0 #51
+2026/10/16-01:11:57.630 4398 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1537 : 1
+2026/10/16-01:11:57.630 4398 Compacting 1@0 + 1@1 files
+2026/10/16-01:11:58.009 4398 Generated table #56@0: 349 keys, 4621 bytes
+2026/10/16-01:11:58.010 4398 Compacted 1@0 + 1@1 files => 4621 bytes
+2026/10/16-01:11:58.163 4398 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/16-01:11:58.164 4398 Delete type=2 #55
+2026/10/16-01:11:58.164 4e0 Manual compaction at level-0 from '\x00\x14\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1537 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
