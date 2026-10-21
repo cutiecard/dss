@@ -1,25 +1,14 @@
-2026/10/19-00:46:45.929 3ec4 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/19-00:46:45.930 3ec4 Recovering log #91
-2026/10/19-00:46:45.930 3ec4 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000091.log 
-2026/10/19-00:46:45.930 3ec4 Delete type=2 #89
-2026/10/19-00:46:45.959 281c Level-0 table #96: started
-2026/10/19-00:46:46.010 281c Level-0 table #96: 357 bytes OK
-2026/10/19-00:46:46.059 281c Delete type=0 #91
-2026/10/19-00:46:46.059 281c Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 2914 : 1
-2026/10/19-00:46:46.067 281c Compacting 1@0 + 1@1 files
-2026/10/19-00:46:46.135 281c Generated table #97@0: 458 keys, 5009 bytes
-2026/10/19-00:46:46.135 281c Compacted 1@0 + 1@1 files => 5009 bytes
-2026/10/19-00:46:46.175 281c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/19-00:46:46.176 281c Delete type=2 #96
-2026/10/19-00:46:46.176 3ec4 Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 2914 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/10/19-00:46:46.176 3ec4 Level-0 table #99: started
-2026/10/19-00:46:46.199 3ec4 Level-0 table #99: 1289 bytes OK
-2026/10/19-00:46:46.226 3ec4 Delete type=2 #93
-2026/10/19-00:46:46.226 3ec4 Delete type=0 #95
-2026/10/19-00:46:46.227 3ec4 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 2961 : 1
-2026/10/19-00:46:46.227 3ec4 Compacting 1@0 + 1@1 files
-2026/10/19-00:46:46.261 3ec4 Generated table #100@0: 478 keys, 5722 bytes
-2026/10/19-00:46:46.261 3ec4 Compacted 1@0 + 1@1 files => 5722 bytes
-2026/10/19-00:46:46.284 3ec4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/19-00:46:46.284 3ec4 Delete type=2 #99
-2026/10/19-00:46:46.284 3ec4 Manual compaction at level-0 from '\x00$\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 2961 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/20-00:49:10.892 6ddc Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/20-00:49:10.919 6ddc Recovering log #98
+2026/10/20-00:49:10.919 6ddc Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000098.log 
+2026/10/20-00:49:10.919 6ddc Delete type=2 #97
+2026/10/20-00:49:11.249 52f4 Level-0 table #103: started
+2026/10/20-00:49:11.342 52f4 Level-0 table #103: 1028 bytes OK
+2026/10/20-00:49:11.474 52f4 Delete type=0 #98
+2026/10/20-00:49:11.474 52f4 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 3033 : 0
+2026/10/20-00:49:11.474 52f4 Compacting 1@0 + 1@1 files
+2026/10/20-00:49:11.611 52f4 Generated table #104@0: 457 keys, 5008 bytes
+2026/10/20-00:49:11.611 52f4 Compacted 1@0 + 1@1 files => 5008 bytes
+2026/10/20-00:49:11.776 52f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/20-00:49:11.777 52f4 Delete type=2 #103
+2026/10/20-00:49:11.828 52f4 Manual compaction at level-0 from '\x00$\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 3033 : 0 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
