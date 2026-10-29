@@ -1,14 +1,18 @@
-2026/10/28-01:29:41.960 7af0 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/28-01:29:42.030 7af0 Recovering log #150
-2026/10/28-01:29:42.030 7af0 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000150.log 
-2026/10/28-01:29:42.030 7af0 Delete type=2 #148
-2026/10/28-01:29:42.755 70ec Level-0 table #155: started
-2026/10/28-01:29:42.982 70ec Level-0 table #155: 357 bytes OK
-2026/10/28-01:29:43.225 70ec Delete type=0 #150
-2026/10/28-01:29:43.225 70ec Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at '\x001\x00\x00\x05' @ 4091 : 1
-2026/10/28-01:29:43.430 70ec Compacting 1@0 + 1@1 files
-2026/10/28-01:29:44.171 70ec Generated table #156@0: 486 keys, 5283 bytes
-2026/10/28-01:29:44.171 70ec Compacted 1@0 + 1@1 files => 5283 bytes
-2026/10/28-01:29:44.323 70ec compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/28-01:29:44.323 70ec Delete type=2 #155
-2026/10/28-01:29:44.324 7bc0 Manual compaction at level-0 from '\x001\x00\x00\x05' @ 4091 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/29-00:56:35.899 1168 Reusing MANIFEST F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/29-00:56:35.944 1168 Recovering log #154
+2026/10/29-00:56:35.945 1168 Reusing old log F:\games\Deepseek-API-main\session\profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000154.log 
+2026/10/29-00:56:35.945 1168 Delete type=2 #152
+2026/10/29-00:56:36.270 b48 Level-0 table #159: started
+2026/10/29-00:56:36.493 b48 Level-0 table #159: 580 bytes OK
+2026/10/29-00:56:36.685 b48 Delete type=0 #154
+2026/10/29-00:56:36.685 89e4 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/29-00:56:36.777 89e4 Level-0 table #161: started
+2026/10/29-00:56:36.887 89e4 Level-0 table #161: 1173 bytes OK
+2026/10/29-00:56:37.217 89e4 Delete type=0 #158
+2026/10/29-00:56:37.358 1168 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00c\x00h\x00a\x00t\x00.\x00d\x00e\x00e\x00p\x00s\x00e\x00e\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1f\x00a\x00p\x00p\x00l\x00o\x00g\x00_\x00s\x00d\x00k\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00s\x00t\x00o\x00r\x00e\x00_\x002\x000\x000\x000\x006\x003\x001\x007' @ 4095 : 0
+2026/10/29-00:56:37.358 1168 Compacting 2@0 + 1@1 files
+2026/10/29-00:56:37.864 1168 Generated table #162@0: 505 keys, 5947 bytes
+2026/10/29-00:56:37.864 1168 Compacted 2@0 + 1@1 files => 5947 bytes
+2026/10/29-00:56:38.085 1168 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/29-00:56:38.085 1168 Delete type=2 #161
+2026/10/29-00:56:38.085 8428 Manual compaction at level-0 from '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00c\x00h\x00a\x00t\x00.\x00d\x00e\x00e\x00p\x00s\x00e\x00e\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1f\x00a\x00p\x00p\x00l\x00o\x00g\x00_\x00s\x00d\x00k\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00s\x00t\x00o\x00r\x00e\x00_\x002\x000\x000\x000\x006\x003\x001\x007' @ 4095 : 0 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
